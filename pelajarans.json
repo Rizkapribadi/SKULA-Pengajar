@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5c24d7b02514970ef8004402"},"name":"Ilmu Pengetahuan Sosial","gambar":"gambar/Z5UWNdTWwtUisKgnM3JFAieicDwtqYc4jsdkDhii.png","updated_at":{"$date":"2019-01-31T03:30:15.000Z"},"created_at":{"$date":"2018-12-27T13:46:24.000Z"}}
+{"_id":{"$oid":"5c24d8242514970f60006363"},"name":"Pendidikan Kewarganegaraan","gambar":"gambar/9rqwR2oXeYmyAzs20paThiz1o7T6Urye27yh6bkp.png","updated_at":{"$date":"2019-01-31T03:33:59.000Z"},"created_at":{"$date":"2018-12-27T13:48:20.000Z"}}
+{"_id":{"$oid":"5c648b3a25149713ec002fb2"},"name":"SBDP","gambar":"gambar/rUvSVgaays3b7GLoYq2Y3wmLiAGFpWh6gqLOU2FW.png","updated_at":{"$date":"2019-02-13T21:25:14.000Z"},"created_at":{"$date":"2019-02-13T21:25:14.000Z"}}
+{"_id":{"$oid":"5c24d79d2514970dc8001413"},"name":"Ilmu Pengetahuan Alam","gambar":"gambar/YWZTTP0kowYocDRUSm4VztOvWNqgbJ2o4iHdFI6s.png","updated_at":{"$date":"2019-01-31T03:29:49.000Z"},"created_at":{"$date":"2018-12-27T13:46:05.000Z"}}
+{"_id":{"$oid":"5beecbb12514970e000040d2"},"name":"Bahasa Indonesia","gambar":"gambar/tB5jv2ThuzBljAMhxleib4M0XZ75AVnYDnbDQ1Nk.png","updated_at":{"$date":"2018-12-03T11:30:36.000Z"},"created_at":{"$date":"2018-11-16T13:52:49.000Z"}}

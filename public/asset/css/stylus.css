@@ -1,0 +1,22 @@
+.rcorners {
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px; 
+background-image: url("../images/astronot.png");
+padding: 20px;
+width: 1277;
+height: 300;
+}
+
+
+
+
+.rcorners2 {
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px; 
+background-image: url("../images/astronot2.png");
+padding: 20px;
+width: 1277;
+height: 300;
+}
+
+
