@@ -17,7 +17,7 @@ Fitur pada SKULA Pengajar:
 ### Tampilan Pelajaran
 ![image alt](https://github.com/Rizkapribadi/SKULA-Pengajar/blob/3b6a99bfd5305cfde0ce736f4ad242ae81e16d3a/ss.png)
 ### Tampilan Materi
-
+![image alt](https://github.com/Rizkapribadi/SKULA-Pengajar/blob/928a144f7bd21bf0ece8243e9cb4ae4a1721bbcf/ss2.png)
 ### Tampilan Archive
 
 ## License
