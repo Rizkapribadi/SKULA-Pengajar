@@ -14,12 +14,14 @@ Fitur pada SKULA Pengajar:
 - Menghapus pelajaran
 - Mendrag materi (menggunakan VueJs)
 
-### Tampilan Pelajaran
+### Tampilan Daftar Pelajaran
 ![image alt](https://github.com/Rizkapribadi/SKULA-Pengajar/blob/3b6a99bfd5305cfde0ce736f4ad242ae81e16d3a/ss.png)
-### Tampilan Materi
+### Tampilan Daftar Materi
 ![image alt](https://github.com/Rizkapribadi/SKULA-Pengajar/blob/928a144f7bd21bf0ece8243e9cb4ae4a1721bbcf/ss2.png)
 ### SKULA Manager untuk menambahkan video atau gambar
 ![imgae alt](https://github.com/Rizkapribadi/SKULA-Pengajar/blob/d50f2c4e91fc90c955123f3c4f7405a9001e9a19/skulamanager.png)
+### Tampilan Materi
+![image alt](https://github.com/Rizkapribadi/SKULA-Pengajar/blob/6af927f708549fedac3bfa478c49b66c35928a7a/4.png)
 
 ## License
 
