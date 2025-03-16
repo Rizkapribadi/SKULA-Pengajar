@@ -23,6 +23,9 @@ Fitur pada SKULA Pengajar:
 ### Tampilan Materi
 ![image alt](https://github.com/Rizkapribadi/SKULA-Pengajar/blob/6af927f708549fedac3bfa478c49b66c35928a7a/4.png)
 
+### Mengubah Urutan Materi
+![image alt](https://github.com/Rizkapribadi/SKULA-Pengajar/blob/9356c95964d3c46633f0a83d244dcfaff52b9390/15.png)
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
