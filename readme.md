@@ -2,16 +2,16 @@
 
 ## SKULA Pengajar
 
-SKULA Pengajar adalah web-based Offline E-learning yang dibuat untuk membantu kegiatan pembelajaran pada kamp pengungsian atau sekolah yang tidak memiliki internet. 
+SKULA Pengajar adalah web-based Offline E-learning yang dibuat menggunakan framework Laravel untuk membantu kegiatan pembelajaran pada kamp pengungsian atau sekolah yang tidak memiliki internet. 
 
 Fitur pada SKULA Pengajar:
 
 - Membuat pelajaran
 - Menambahkan materi
-- Menambahkan video atau gambar
+- Menambahkan video atau gambar dengan skula manager
+- Meng-archive materi
 - Menghapus materi
 - Menghapus pelajaran
-- Menu archive di mana materi yang sudah dihapus akan masuk ke sini dan pengajar dapat men-restore materi yang sudah dihapus
 - Mendrag materi (menggunakan VueJs)
 
 ### Tampilan Pelajaran
